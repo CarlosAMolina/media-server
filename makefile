@@ -1,5 +1,5 @@
-DOCKER_CONTAINER_NAME=home-media
-FOLDER_WEB=home-media
+DOCKER_CONTAINER_NAME=media-server
+FOLDER_WEB=media-server
 PATH_FOLDER_WEB=/tmp/$(FOLDER_WEB)
 
 create-files:
